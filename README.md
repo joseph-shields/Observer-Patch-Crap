@@ -1,6 +1,6 @@
 # OPH bare-screen closure and structural-convergence audit
 
-This anonymous repository contains a version-locked technical challenge to **Observer Patch Holography (OPH)** and a separate, evidence-disciplined request for conceptual-ancestry disclosure.
+This repository contains a version-locked technical challenge to **Observer Patch Holography (OPH)** and a separate, evidence-disciplined request for conceptual-ancestry disclosure.
 
 It combines:
 
