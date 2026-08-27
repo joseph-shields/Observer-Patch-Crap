@@ -1,0 +1,8 @@
+snapshot_id,date,label,commit,all_role_alignment,probative_role_alignment,controls_excluded_alignment,probative_edge_alignment
+S0,2026-08-01,Pre-audit public baseline,23c6a0baccafc6dc22dd5e1c252e5209001fb6a3,0.134393,0.125821,0.130028,0.089543
+S1,2026-08-07,Post-audit mechanics wave,09d525fd7ff184d927363f7baa0099aecac95143,0.45563,0.459232,0.453229,0.406447
+S2,2026-08-17,V3 governance and physical-promotion wave,1fe5063da4caa5093fa2ebab00b8f7cab34390d4,0.804263,0.813042,0.803966,0.757571
+S3,2026-08-25T20:50:07Z,Core-physics wave,4bc014ab838bf98b1d8c0b517c087d7df10ce73e,0.877255,0.888218,0.87719,0.842016
+S4,2026-08-26T08:22:16Z,Compression-thesis flagship rewrite,fe4c9579a69ac39895cb651cffe27acbfa75e5b5,0.889888,0.900188,0.88987,0.854168
+S5,2026-08-26T09:30:49Z,V3.33 force/speed/clock/golden wave,864051be4c4f6363af3553c515c00bfb144c2455,0.939151,0.950826,0.93919,0.922151
+S6,2026-08-26T10:50:05Z,V3.34 proper-length clock/force/flow wave,05207466cf63461c683bf1b8543d7c4a5feea4fa,0.943144,0.954725,0.943144,0.928246

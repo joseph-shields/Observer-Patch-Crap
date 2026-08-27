@@ -1,0 +1,72 @@
+[
+  {
+    "snapshot_id": "S0",
+    "date": "2026-08-01",
+    "label": "Pre-audit public baseline",
+    "commit": "23c6a0baccafc6dc22dd5e1c252e5209001fb6a3",
+    "all_role_alignment": 0.134393,
+    "probative_role_alignment": 0.125821,
+    "controls_excluded_alignment": 0.130028,
+    "probative_edge_alignment": 0.089543
+  },
+  {
+    "snapshot_id": "S1",
+    "date": "2026-08-07",
+    "label": "Post-audit mechanics wave",
+    "commit": "09d525fd7ff184d927363f7baa0099aecac95143",
+    "all_role_alignment": 0.45563,
+    "probative_role_alignment": 0.459232,
+    "controls_excluded_alignment": 0.453229,
+    "probative_edge_alignment": 0.406447
+  },
+  {
+    "snapshot_id": "S2",
+    "date": "2026-08-17",
+    "label": "V3 governance and physical-promotion wave",
+    "commit": "1fe5063da4caa5093fa2ebab00b8f7cab34390d4",
+    "all_role_alignment": 0.804263,
+    "probative_role_alignment": 0.813042,
+    "controls_excluded_alignment": 0.803966,
+    "probative_edge_alignment": 0.757571
+  },
+  {
+    "snapshot_id": "S3",
+    "date": "2026-08-25T20:50:07Z",
+    "label": "Core-physics wave",
+    "commit": "4bc014ab838bf98b1d8c0b517c087d7df10ce73e",
+    "all_role_alignment": 0.877255,
+    "probative_role_alignment": 0.888218,
+    "controls_excluded_alignment": 0.87719,
+    "probative_edge_alignment": 0.842016
+  },
+  {
+    "snapshot_id": "S4",
+    "date": "2026-08-26T08:22:16Z",
+    "label": "Compression-thesis flagship rewrite",
+    "commit": "fe4c9579a69ac39895cb651cffe27acbfa75e5b5",
+    "all_role_alignment": 0.889888,
+    "probative_role_alignment": 0.900188,
+    "controls_excluded_alignment": 0.88987,
+    "probative_edge_alignment": 0.854168
+  },
+  {
+    "snapshot_id": "S5",
+    "date": "2026-08-26T09:30:49Z",
+    "label": "V3.33 force/speed/clock/golden wave",
+    "commit": "864051be4c4f6363af3553c515c00bfb144c2455",
+    "all_role_alignment": 0.939151,
+    "probative_role_alignment": 0.950826,
+    "controls_excluded_alignment": 0.93919,
+    "probative_edge_alignment": 0.922151
+  },
+  {
+    "snapshot_id": "S6",
+    "date": "2026-08-26T10:50:05Z",
+    "label": "V3.34 proper-length clock/force/flow wave",
+    "commit": "05207466cf63461c683bf1b8543d7c4a5feea4fa",
+    "all_role_alignment": 0.943144,
+    "probative_role_alignment": 0.954725,
+    "controls_excluded_alignment": 0.943144,
+    "probative_edge_alignment": 0.928246
+  }
+]

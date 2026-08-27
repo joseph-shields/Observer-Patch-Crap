@@ -1,0 +1,6 @@
+PDF: /mnt/data/OPH_Bare_Screen_Closure_And_Structural_Convergence_Audit_Anonymous/paper/OPH_Bare_Screen_Closure_Audit.pdf
+Pages: 34
+Encrypted: False
+Openable (PyMuPDF): True
+Likely scanned: False
+XFA present: False

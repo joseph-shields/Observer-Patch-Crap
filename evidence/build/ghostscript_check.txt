@@ -1,0 +1,1 @@
+PASS: Ghostscript interpreted every page with the null device.

@@ -1,0 +1,102 @@
+[
+  {
+    "source": "process_before_object",
+    "target": "retrospective_objecthood",
+    "weight": 2
+  },
+  {
+    "source": "retrospective_objecthood",
+    "target": "realization_gate",
+    "weight": 3
+  },
+  {
+    "source": "realization_gate",
+    "target": "local_conditions",
+    "weight": 3
+  },
+  {
+    "source": "local_conditions",
+    "target": "record_closure",
+    "weight": 4
+  },
+  {
+    "source": "record_closure",
+    "target": "physical_calibration_gate",
+    "weight": 5
+  },
+  {
+    "source": "dynamics_before_action",
+    "target": "action_equivalence_class",
+    "weight": 5
+  },
+  {
+    "source": "admissible_history_first",
+    "target": "informational_minimizer",
+    "weight": 5
+  },
+  {
+    "source": "informational_minimizer",
+    "target": "physical_action_after_information",
+    "weight": 5
+  },
+  {
+    "source": "action_equivalence_class",
+    "target": "physical_action_after_information",
+    "weight": 4
+  },
+  {
+    "source": "countermodel_uniqueness",
+    "target": "realization_gate",
+    "weight": 5
+  },
+  {
+    "source": "premise_ancestry",
+    "target": "claim_status_discipline",
+    "weight": 4
+  },
+  {
+    "source": "no_privilege_candidate_selection",
+    "target": "alternative_completions",
+    "weight": 4
+  },
+  {
+    "source": "alternative_completions",
+    "target": "countermodel_uniqueness",
+    "weight": 4
+  },
+  {
+    "source": "observer_history_vs_index",
+    "target": "proper_time_accumulation",
+    "weight": 5
+  },
+  {
+    "source": "proper_time_accumulation",
+    "target": "physical_calibration_gate",
+    "weight": 4
+  },
+  {
+    "source": "force_current_hamiltonian_gap",
+    "target": "open_rows_no_promotion",
+    "weight": 5
+  },
+  {
+    "source": "open_rows_no_promotion",
+    "target": "claim_status_discipline",
+    "weight": 4
+  },
+  {
+    "source": "explicit_falsifier",
+    "target": "claim_status_discipline",
+    "weight": 3
+  },
+  {
+    "source": "compression_generators",
+    "target": "claim_status_discipline",
+    "weight": 2
+  },
+  {
+    "source": "self_description_record_loop",
+    "target": "record_closure",
+    "weight": 2
+  }
+]

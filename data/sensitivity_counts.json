@@ -1,0 +1,86 @@
+[
+  {
+    "snapshot_id": "S0",
+    "date": "2026-08-01",
+    "roles_ge_0_5": 0,
+    "edges_ge_0_5": 0,
+    "roles_ge_0_75": 0,
+    "edges_ge_0_75": 0,
+    "roles_ge_0_9": 0,
+    "edges_ge_0_9": 0,
+    "roles_ge_1_0": 0,
+    "edges_ge_1_0": 0
+  },
+  {
+    "snapshot_id": "S1",
+    "date": "2026-08-07",
+    "roles_ge_0_5": 6,
+    "edges_ge_0_5": 4,
+    "roles_ge_0_75": 5,
+    "edges_ge_0_75": 4,
+    "roles_ge_0_9": 4,
+    "edges_ge_0_9": 2,
+    "roles_ge_1_0": 2,
+    "edges_ge_1_0": 1
+  },
+  {
+    "snapshot_id": "S2",
+    "date": "2026-08-17",
+    "roles_ge_0_5": 18,
+    "edges_ge_0_5": 15,
+    "roles_ge_0_75": 16,
+    "edges_ge_0_75": 13,
+    "roles_ge_0_9": 11,
+    "edges_ge_0_9": 7,
+    "roles_ge_1_0": 4,
+    "edges_ge_1_0": 2
+  },
+  {
+    "snapshot_id": "S3",
+    "date": "2026-08-25T20:50:07Z",
+    "roles_ge_0_5": 20,
+    "edges_ge_0_5": 17,
+    "roles_ge_0_75": 18,
+    "edges_ge_0_75": 15,
+    "roles_ge_0_9": 14,
+    "edges_ge_0_9": 9,
+    "roles_ge_1_0": 6,
+    "edges_ge_1_0": 4
+  },
+  {
+    "snapshot_id": "S4",
+    "date": "2026-08-26T08:22:16Z",
+    "roles_ge_0_5": 20,
+    "edges_ge_0_5": 17,
+    "roles_ge_0_75": 18,
+    "edges_ge_0_75": 15,
+    "roles_ge_0_9": 16,
+    "edges_ge_0_9": 11,
+    "roles_ge_1_0": 7,
+    "edges_ge_1_0": 5
+  },
+  {
+    "snapshot_id": "S5",
+    "date": "2026-08-26T09:30:49Z",
+    "roles_ge_0_5": 20,
+    "edges_ge_0_5": 17,
+    "roles_ge_0_75": 20,
+    "edges_ge_0_75": 17,
+    "roles_ge_0_9": 18,
+    "edges_ge_0_9": 13,
+    "roles_ge_1_0": 10,
+    "edges_ge_1_0": 7
+  },
+  {
+    "snapshot_id": "S6",
+    "date": "2026-08-26T10:50:05Z",
+    "roles_ge_0_5": 20,
+    "edges_ge_0_5": 17,
+    "roles_ge_0_75": 20,
+    "edges_ge_0_75": 17,
+    "roles_ge_0_9": 19,
+    "edges_ge_0_9": 15,
+    "roles_ge_1_0": 10,
+    "edges_ge_1_0": 7
+  }
+]

@@ -1,0 +1,4 @@
+Rendered pages: 34/34 at 150 dpi.
+The final render was pixel-identical to the preceding visually inspected 34-page render after deterministic figure regeneration.
+Full-size pages inspected: title page, structural-convergence figure page, final reference page.
+Contact-sheet inspection: all pages; no visible clipping, overlap, black squares or broken glyphs observed.

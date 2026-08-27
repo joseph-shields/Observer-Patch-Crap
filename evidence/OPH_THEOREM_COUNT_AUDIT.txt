@@ -1,0 +1,24 @@
+OPH THEOREM-COUNT AUDIT
+=======================
+Date: 26 August 2026
+Local checkout: /mnt/data/oph_current/observer-patch-holography-main
+Frozen public OPH commit used by article: 40b13bb4bc56261f84fd515701916c388c42fe83
+
+OPH counting tool:
+  tools/check_lean_theorem_count.py
+  SHA-256: 4cd1bcdcc491b7d50cc7c06d42af83dc3dca668b7b4cba8f63c704bb4a64244c
+
+Lean source files under Lean/:
+  381
+
+Exact output of OPH's counting tool:
+  Lean public theorem/lemma declarations: 8449 (expected floor: 8400)
+  OK: every stated floor matches the expected value
+
+Interpretation used in the accompanying theorem-volume result:
+  The raw count is not treated as zero mathematical value.
+  Instead, any declaration whose semantics factors through the common OPH
+  source reduct has zero discriminatory power between physically inequivalent
+  lifts sharing that reduct. Any declaration that does distinguish the lifts
+  cannot factor solely through the common source reduct and therefore exposes
+  additional load-bearing physical structure/premises.

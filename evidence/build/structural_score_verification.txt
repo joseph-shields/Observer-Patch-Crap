@@ -1,0 +1,10 @@
+OK: structural alignment scores reproduce exactly
+OK: every coded role is non-decreasing across the frozen snapshots
+Therefore every positive weighted role score is non-decreasing; weights affect magnitude, not direction.
+S0 2026-08-01 0.125821 0.089543
+S1 2026-08-07 0.459232 0.406447
+S2 2026-08-17 0.813042 0.757571
+S3 2026-08-25T20:50:07Z 0.888218 0.842016
+S4 2026-08-26T08:22:16Z 0.900188 0.854168
+S5 2026-08-26T09:30:49Z 0.950826 0.922151
+S6 2026-08-26T10:50:05Z 0.954725 0.928246

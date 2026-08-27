@@ -1,0 +1,68 @@
+PAPER BUILD REPORT
+==================
+
+Artifact: paper/OPH_Bare_Screen_Closure_Audit.pdf
+Source: paper/OPH_Bare_Screen_Closure_Audit.tex
+Build date: 2026-08-26 (fixed PDF source date)
+
+FINAL ARTIFACT
+--------------
+Pages: 34
+Page size: A4 (595.276 x 841.89 pt)
+PDF version: 1.7
+Encrypted: no
+Forms: none
+XFA: no
+JavaScript: no
+Fonts: embedded
+PDF SHA-256: 8d1f69fccaef7e8e3fc7f75b309b52d40381317b2f133772371399b3322df652
+TeX SHA-256: 64384bfee09052497368b2bf2882b7cd138c6b977ab3e5c5bab1b181aa960cef
+
+BUILD
+-----
+Engine: pdfTeX through latexmk
+Source-date environment: fixed to 2026-08-26 UTC
+Consecutive deterministic rebuilds: identical SHA-256
+Undefined references/citations: 0
+Overfull boxes: 0
+Non-fatal diagnostics: one microtype footnote-patch warning; two underfull bibliography boxes
+
+PREFLIGHT
+---------
+PyMuPDF openability: PASS
+Project pdf_preflight.py: PASS
+Ghostscript null-device interpretation: PASS
+pdfinfo: PASS
+pdffonts: all listed fonts embedded
+qpdf: not installed in packaging environment; no qpdf result claimed
+
+VISUAL QA
+---------
+Rendered pages: 34/34 at 150 dpi
+Contact-sheet review: PASS
+Full-size pages reviewed: title page, structural-convergence figures, final references
+Clipping/overlap/black squares/broken glyphs observed: none
+Final rebuild versus prior inspected render: pixel-identical on all 34 pages
+
+ANONYMITY
+---------
+PDF metadata author: Open Technical Audit contributors
+Extracted-text personal-author scan: no match
+Unredacted prior sources/messages included: no
+
+COPYRIGHT/PARODY NOTE
+---------------------
+The long-armed cartoon screen is an original schematic used as a reductio for criticism and analysis. No official Mr. Men artwork is reproduced.
+
+SUPPORTING FILES
+----------------
+evidence/build/pdf_inspect.txt
+evidence/build/pdf_preflight.txt
+evidence/build/pdfinfo.txt
+evidence/build/pdffonts.txt
+evidence/build/qpdf_check.txt
+evidence/build/ghostscript_check.txt
+evidence/build/latex_diagnostics.txt
+evidence/build/render_verification.txt
+evidence/build/paper_contact_sheet.png
+evidence/build/final_artifact_hashes.txt

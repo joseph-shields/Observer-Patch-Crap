@@ -1,0 +1,5 @@
+name = "oph_bare_screen_audit"
+version = "0.1.0"
+defaultTargets = ["PhysicalNonDefinability"]
+[[lean_lib]]
+name = "PhysicalNonDefinability"

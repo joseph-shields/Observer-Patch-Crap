@@ -1,0 +1,191 @@
+[
+  {
+    "id": "process_before_object",
+    "label": "Process/operation before finished object",
+    "weight": 2,
+    "probative_factor": 0.65,
+    "reason": "Unusual foundational ordering, but broad philosophical antecedents exist."
+  },
+  {
+    "id": "retrospective_objecthood",
+    "label": "Objecthood only after stable recovery",
+    "weight": 2,
+    "probative_factor": 0.75,
+    "reason": "Functional role more distinctive than generic process language."
+  },
+  {
+    "id": "realization_gate",
+    "label": "Formal structure does not become physics without realization",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Central supplied-audit objection and later OPH governance role."
+  },
+  {
+    "id": "local_conditions",
+    "label": "Local conditions/carrier required for physical meaning",
+    "weight": 3,
+    "probative_factor": 0.85,
+    "reason": "Specific source-to-physics typing requirement."
+  },
+  {
+    "id": "record_closure",
+    "label": "System -> interaction -> record -> reconstruction -> observable",
+    "weight": 5,
+    "probative_factor": 0.95,
+    "reason": "Distinctive scientific closure discipline."
+  },
+  {
+    "id": "physical_calibration_gate",
+    "label": "No physical/quantitative promotion without calibration/readout",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Load-bearing promotion gate."
+  },
+  {
+    "id": "dynamics_before_action",
+    "label": "Dynamics/history primary; action downstream",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Cleanest post-contact architectural convergence."
+  },
+  {
+    "id": "action_equivalence_class",
+    "label": "Action non-unique within an equivalence/gauge class",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Specific ordering and explanatory role."
+  },
+  {
+    "id": "admissible_history_first",
+    "label": "Admissible history fixed before minimization",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Specific information-first ordering."
+  },
+  {
+    "id": "informational_minimizer",
+    "label": "Informational minimizer inside admissible histories",
+    "weight": 4,
+    "probative_factor": 0.9,
+    "reason": "Distinctive middle step."
+  },
+  {
+    "id": "physical_action_after_information",
+    "label": "Physical action representative only after informational sufficiency",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Load-bearing bridge ordering."
+  },
+  {
+    "id": "countermodel_uniqueness",
+    "label": "Same source / alternative realization defeats uniqueness",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Exact function of supplied featureless countermodel."
+  },
+  {
+    "id": "premise_ancestry",
+    "label": "Machine-tracked premise/source ancestry",
+    "weight": 4,
+    "probative_factor": 0.9,
+    "reason": "Programme-wide research governance shift."
+  },
+  {
+    "id": "claim_status_discipline",
+    "label": "Proved/conditional/open/withdrawn status ledger",
+    "weight": 4,
+    "probative_factor": 0.85,
+    "reason": "Close methodological function; some OPH caveats pre-existed."
+  },
+  {
+    "id": "no_privilege_candidate_selection",
+    "label": "Freeze candidate class and reject visually attractive promotion",
+    "weight": 4,
+    "probative_factor": 0.9,
+    "reason": "Close to supplied audit discipline."
+  },
+  {
+    "id": "alternative_completions",
+    "label": "Equal-budget alternatives and incompatible completions",
+    "weight": 4,
+    "probative_factor": 0.85,
+    "reason": "Countermodel/uniqueness function."
+  },
+  {
+    "id": "observer_history_vs_index",
+    "label": "Observer accumulated history distinct from index/base position",
+    "weight": 5,
+    "probative_factor": 0.95,
+    "reason": "Substantive observer-time role documented before later waves."
+  },
+  {
+    "id": "proper_time_accumulation",
+    "label": "Proper-length/proper-time accrual as retained observer quantity",
+    "weight": 5,
+    "probative_factor": 0.95,
+    "reason": "Strong functional match; standard relativity machinery is inherited."
+  },
+  {
+    "id": "force_current_hamiltonian_gap",
+    "label": "Force/current/Hamiltonian/dynamics identified as missing bridge",
+    "weight": 5,
+    "probative_factor": 1.0,
+    "reason": "Explicitly raised in supplied audit, then targeted in later waves."
+  },
+  {
+    "id": "open_rows_no_promotion",
+    "label": "Open rows tracked; no promotion/discharge without bridge",
+    "weight": 5,
+    "probative_factor": 0.95,
+    "reason": "Repeated later OPH module language matches prior audit grammar."
+  },
+  {
+    "id": "explicit_falsifier",
+    "label": "Every module/claim carries explicit falsifier",
+    "weight": 3,
+    "probative_factor": 0.75,
+    "reason": "Good scientific practice generally; lower provenance weight."
+  },
+  {
+    "id": "compression_generators",
+    "label": "Compress corpus into few generating moves/bridges",
+    "weight": 3,
+    "probative_factor": 0.8,
+    "reason": "Programme-level explanatory compression."
+  },
+  {
+    "id": "self_description_record_loop",
+    "label": "Self-description/record loop as architecture",
+    "weight": 3,
+    "probative_factor": 0.55,
+    "reason": "OPH observer language predates audit; contextual only."
+  },
+  {
+    "id": "golden_role_grammar",
+    "label": "Golden split tied to role grammar",
+    "weight": 1,
+    "probative_factor": 0.2,
+    "reason": "OPH has independent icosahedral/A5 golden ancestry; negative-control weight."
+  },
+  {
+    "id": "weight_before_probability",
+    "label": "Weight before probability",
+    "weight": 1,
+    "probative_factor": 0.1,
+    "reason": "Excluded: OPH Born lane predates relevant contact."
+  },
+  {
+    "id": "role_typed_geometry",
+    "label": "Typed role decomposition / Lorentz geometry",
+    "weight": 1,
+    "probative_factor": 0.1,
+    "reason": "Excluded: OPH Lorentz branch predates relevant contact."
+  },
+  {
+    "id": "chiral_mixing_downstream",
+    "label": "Chiral mixing/mass downstream of dynamics",
+    "weight": 1,
+    "probative_factor": 0.25,
+    "reason": "Partial overlap but OPH has pre-August Yukawa/mixing work."
+  }
+]

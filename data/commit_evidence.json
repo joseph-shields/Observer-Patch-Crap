@@ -1,0 +1,230 @@
+[
+  {
+    "id": "O-001",
+    "date": "2026-04-16",
+    "sha": "15dc8c30dcc78b55c5a8fa5de99652c6a72771e4",
+    "title": "Older Born-rule antecedent",
+    "roles": [
+      "weight_before_probability"
+    ],
+    "grade": "X / exclusion",
+    "note": "Retained as a negative control; generic Born provenance is not alleged."
+  },
+  {
+    "id": "O-002",
+    "date": "2026-07-12",
+    "sha": "8051af7bf7b270b48d53bb9837e34a6fff8eb8a6",
+    "title": "Older Lorentz/event-manifold branch",
+    "roles": [
+      "role_typed_geometry"
+    ],
+    "grade": "X / exclusion",
+    "note": "Retained as a negative control; 3D/Lorentz provenance is not alleged."
+  },
+  {
+    "id": "O-003",
+    "date": "2026-07-22/28",
+    "sha": "33176a44b0769927644b61a4770da92b03475d9e",
+    "title": "Pre-August Yukawa/mixing antecedents",
+    "roles": [
+      "chiral_mixing_downstream"
+    ],
+    "grade": "C / context",
+    "note": "Generic flavor/mixing interest is not a standalone provenance claim."
+  },
+  {
+    "id": "O-004",
+    "date": "2026-08-01",
+    "sha": "23c6a0baccafc6dc22dd5e1c252e5209001fb6a3",
+    "title": "Pre-audit theorem/realization caveats",
+    "roles": [
+      "realization_gate",
+      "claim_status_discipline"
+    ],
+    "grade": "antecedent",
+    "note": "Shows OPH had some caveat machinery before the supplied audit."
+  },
+  {
+    "id": "O-005",
+    "date": "2026-08-02",
+    "sha": "58a00d2561e00f2a30252f53816b524e50c9dc38",
+    "title": "Finite Markov path-law receipt",
+    "roles": [
+      "admissible_history_first"
+    ],
+    "grade": "substrate",
+    "note": "Precedes least-action/action-class promotion."
+  },
+  {
+    "id": "O-006",
+    "date": "2026-08-05",
+    "sha": "c010e0aa2844bfca6c8496ad85bd73b60c8f0af9",
+    "title": "History-level least action",
+    "roles": [
+      "admissible_history_first",
+      "informational_minimizer",
+      "physical_action_after_information"
+    ],
+    "grade": "B/C",
+    "note": "Complete-history projection becomes effective action, modal least action, Euler-Lagrange and Noether; scope says no physical action or clock."
+  },
+  {
+    "id": "O-007",
+    "date": "2026-08-06",
+    "sha": "e668e7838220b02e4020e5bd343cf0cc63b1febb",
+    "title": "Finite Stone/Hamiltonian rigidity",
+    "roles": [
+      "force_current_hamiltonian_gap"
+    ],
+    "grade": "context",
+    "note": "Hamiltonian forcing added after the supplied audit period."
+  },
+  {
+    "id": "O-008",
+    "date": "2026-08-07",
+    "sha": "cecf13425072d12765581177272e4d141bd99756",
+    "title": "Source dynamics selects action; Legendre bridge",
+    "roles": [
+      "dynamics_before_action",
+      "action_equivalence_class",
+      "physical_action_after_information"
+    ],
+    "grade": "B / strongest",
+    "note": "Clean post-contact architectural match; exact theorem differs from prior inverse-variational class."
+  },
+  {
+    "id": "O-009",
+    "date": "2026-08-07",
+    "sha": "7f57d4df13a28442716c71d00b6b6d39bd6940b6",
+    "title": "History action bound to gauge kinetic form",
+    "roles": [
+      "physical_action_after_information"
+    ],
+    "grade": "downstream",
+    "note": "OPH-specific extension of newly landed action machinery."
+  },
+  {
+    "id": "O-010",
+    "date": "2026-08-07",
+    "sha": "c3917457857a3d5636d48db83e88bdbf9f112172",
+    "title": "Mechanics cluster promoted to headline",
+    "roles": [
+      "compression_generators",
+      "claim_status_discipline"
+    ],
+    "grade": "programme salience",
+    "note": "Promotes forced dynamics/Born weights/derived action as compact-proof receipt."
+  },
+  {
+    "id": "O-011",
+    "date": "2026-08-12",
+    "sha": "a29784c187e47ab201e2a35074e41900db3e3f39",
+    "title": "V3 ledgers and premise register",
+    "roles": [
+      "premise_ancestry",
+      "claim_status_discipline",
+      "record_closure"
+    ],
+    "grade": "B/C",
+    "note": "Observation, premise and Lagrangian correspondence infrastructure."
+  },
+  {
+    "id": "O-012",
+    "date": "2026-08-12/13",
+    "sha": "9c1dd24728218966705b82a900ec2ba966d57394",
+    "title": "Public V3 audit-register snapshot",
+    "roles": [
+      "premise_ancestry",
+      "claim_status_discipline",
+      "alternative_completions"
+    ],
+    "grade": "direct public fact",
+    "note": "Records separated AI reviewer contexts and explicitly disclaims external scientific replication."
+  },
+  {
+    "id": "O-013",
+    "date": "2026-08-13",
+    "sha": "627298d3cacf602214b36688a67d3e7008e47101",
+    "title": "Audit register and authorship snapshot removed",
+    "roles": [
+      "premise_ancestry",
+      "claim_status_discipline"
+    ],
+    "grade": "context only",
+    "note": "Stated reasons: lack of active consumers, staleness and privacy; no concealment motive inferred."
+  },
+  {
+    "id": "O-014",
+    "date": "2026-08-14/17",
+    "sha": "1fe5063da4caa5093fa2ebab00b8f7cab34390d4",
+    "title": "V3 governance, no-privilege and record-centered presentation",
+    "roles": [
+      "realization_gate",
+      "record_closure",
+      "no_privilege_candidate_selection",
+      "countermodel_uniqueness",
+      "open_rows_no_promotion",
+      "self_description_record_loop"
+    ],
+    "grade": "B/C",
+    "note": "Programme-wide methodological convergence in functional roles."
+  },
+  {
+    "id": "O-015",
+    "date": "2026-08-25T20:50:07Z",
+    "sha": "4bc014ab838bf98b1d8c0b517c087d7df10ce73e",
+    "title": "Core-physics wave",
+    "roles": [
+      "observer_history_vs_index",
+      "force_current_hamiltonian_gap",
+      "open_rows_no_promotion",
+      "physical_calibration_gate"
+    ],
+    "grade": "new context",
+    "note": "Recurrence clock, charge-fixed interaction, inertia precursor and local energy balance; nothing discharged."
+  },
+  {
+    "id": "O-016",
+    "date": "2026-08-26T08:22:16Z",
+    "sha": "fe4c9579a69ac39895cb651cffe27acbfa75e5b5",
+    "title": "Flagship rebuilt around compression thesis",
+    "roles": [
+      "compression_generators",
+      "realization_gate",
+      "open_rows_no_promotion"
+    ],
+    "grade": "programme salience",
+    "note": "Frames three axioms/twelve-port screen as compression of observed physics while naming five standing unsupplied maps."
+  },
+  {
+    "id": "O-017",
+    "date": "2026-08-26T09:30:49Z",
+    "sha": "864051be4c4f6363af3553c515c00bfb144c2455",
+    "title": "V3.33 force, speed, clock and golden wave",
+    "roles": [
+      "observer_history_vs_index",
+      "proper_time_accumulation",
+      "force_current_hamiltonian_gap",
+      "open_rows_no_promotion",
+      "explicit_falsifier",
+      "golden_role_grammar"
+    ],
+    "grade": "high-context wave",
+    "note": "Adds force balance, speed limit, index/proper-length clock distinction and golden split with declared-identification/open-row grammar."
+  },
+  {
+    "id": "O-018",
+    "date": "2026-08-26T10:50:05Z",
+    "sha": "05207466cf63461c683bf1b8543d7c4a5feea4fa",
+    "title": "V3.34 proper-length clock, force and carrier-flow wave",
+    "roles": [
+      "observer_history_vs_index",
+      "proper_time_accumulation",
+      "force_current_hamiltonian_gap",
+      "open_rows_no_promotion",
+      "explicit_falsifier"
+    ],
+    "grade": "high-context wave",
+    "note": "Adds proper-length-clocked chain, in-block force law, golden irreducibility and continuous energy-preserving carrier flow."
+  }
+]
